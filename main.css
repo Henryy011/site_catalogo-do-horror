@@ -197,7 +197,7 @@ footer small {
 }
 
 @media screen and (max-width: 768px)  {
-    section {
+    body {
         width: 100%;
         padding: 0;
     }
